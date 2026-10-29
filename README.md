@@ -4,7 +4,7 @@ Este repositório contém um projeto desenvolvido para uma atividade avaliativa 
 
 O **Stoic Notes** é uma aplicação inspirada na filosofia estoica, criada para proporcionar um momento de pausa e reflexão por meio de frases filosóficas. O usuário pode selecionar uma data para consultar uma reflexão, visualizar sua autoria e acessar a tradução em português.
 
-> link do vídeo [https://youtu.be/GSGDh6wPZgo]
+> link do vídeo (https://youtu.be/GSGDh6wPZgo)
 ---
 
 ## 🎯 Objetivo da Atividade
