@@ -101,12 +101,6 @@ Disponibiliza um formulário para seleção da data e apresenta a frase consulta
 
 ---
 
-## 🎥 Demonstração
-
-<!-- Insira aqui o link do vídeo publicado no YouTube -->
-
----
-
 ## 📌 Observações Finais
 
 Este projeto foi desenvolvido para fins educacionais, com o objetivo de aplicar conceitos de desenvolvimento web, integração com APIs públicas, requisições HTTP e processamento de dados JSON utilizando PHP.
